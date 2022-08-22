@@ -1,7 +1,6 @@
 ## Olá, Eu sou o Eduardo Bonamigo 
 
-- 🌱 Estudando Python
-- 😄 Pronouns: Ele/dele
+- Formação Python
 
 <div align="center">
   <a href="https://beacons.ai/Eduardobonamigo">
