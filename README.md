@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Eduardo Bonamigo 
 
 - 📚 Formação Python
-- Estudante de Analise e desenvolvimento de Sistemas 
+- 📖 Estudante de Analise e desenvolvimento de Sistemas 
 
 <div align="center">
   <a href="https://beacons.ai/Eduardobonamigo">
