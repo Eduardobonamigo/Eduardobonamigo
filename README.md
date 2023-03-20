@@ -1,6 +1,7 @@
 ## Olá, Eu sou o Eduardo Bonamigo 
 
-- 📚 Formação Python
+- 💻 Pontifícia Universidade Católica do Paraná (PUCPR)
+- 📚 Formação Python (Alura)
 - 📖 Estudante de Analise e desenvolvimento de Sistemas 
 
 <div align="center">
